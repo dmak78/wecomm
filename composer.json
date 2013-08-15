@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": ">=5.2.0",
+        "slim/slim": "2.*",
+        "dready92/php-on-couch": "dev-master",
+        "facebook/php-sdk": "dev-master"
+    }
+}
